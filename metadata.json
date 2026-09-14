@@ -1,0 +1,8 @@
+{
+  "name": "Izi Disponibilidade",
+  "description": "Enquetes em tempo real para votação de disponibilidade diária de rotas com atualização instantânea",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
